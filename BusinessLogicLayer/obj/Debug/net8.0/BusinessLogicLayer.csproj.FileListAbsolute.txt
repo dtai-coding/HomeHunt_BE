@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\ADMIN\Desktop\EXE201\BE\HomeHunt\HomeHuntBE\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll

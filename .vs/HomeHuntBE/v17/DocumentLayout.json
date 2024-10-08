@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\services\\implements\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\implements\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\dataaccesslayer\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\dataaccesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\dataaccesslayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\dataaccesslayer\\models\\homehuntcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\homehuntcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\appstarts\\dependencyinjectioncontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\appstarts\\dependencyinjectioncontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\requestmodels\\ratingrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\requestmodels\\ratingrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\requestmodels\\roomapplicationrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\requestmodels\\roomapplicationrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\services\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\requestmodels\\postrequsetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\requestmodels\\postrequsetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\appstarts\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\appstarts\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\houseontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\houseontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F565E31C-917B-44D6-B3F5-38BA9D1A87EA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\roomapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\roomapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\services\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\homehuntapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C244A3-F760-49B0-A00B-95C2E1105808}|HomeHuntAPI\\HomeHuntAPI.csproj|solutionrelative:homehuntapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\admin\\desktop\\exe201\\be\\homehunt\\homehuntbe\\businesslogiclayer\\services\\implements\\usersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62047E-F6F9-45D9-9AA9-6E1B498F1F2C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\implements\\usersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\Role.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:34:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:34:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:34:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\AuthController.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:33:07.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeHuntContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\HomeHuntContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\HomeHuntContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Models\\HomeHuntContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\HomeHuntContext.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:00:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\appsettings.json",
+              "RelativeToolTip": "HomeHuntAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T15:38:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjectionContainers.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\AppStarts\\DependencyInjectionContainers.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\AppStarts\\DependencyInjectionContainers.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\AppStarts\\DependencyInjectionContainers.cs",
+              "RelativeToolTip": "HomeHuntAPI\\AppStarts\\DependencyInjectionContainers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:39:42.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomApplicationRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\RequestModels\\RoomApplicationRequestModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\RequestModels\\RoomApplicationRequestModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\RequestModels\\RoomApplicationRequestModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\RequestModels\\RoomApplicationRequestModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:42:38.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RatingRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\RequestModels\\RatingRequestModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\RequestModels\\RatingRequestModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\RequestModels\\RatingRequestModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\RequestModels\\RatingRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:42:36.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostRequsetModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\RequestModels\\PostRequsetModel.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\RequestModels\\PostRequsetModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\RequestModels\\PostRequsetModel.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\RequestModels\\PostRequsetModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:42:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Program.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:16:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\AppStarts\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\AppStarts\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\AppStarts\\SwaggerConfig.cs",
+              "RelativeToolTip": "HomeHuntAPI\\AppStarts\\SwaggerConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:50:48.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Houseontroller.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\Houseontroller.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\Houseontroller.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\Houseontroller.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\Houseontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:15:11.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\PostController.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\PostController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\PostController.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\PostController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:15:09.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\RatingController.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\RatingController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\RatingController.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\RatingController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:15:08.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowI8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:15:07.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\RoomApplicationController.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\RoomApplicationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\RoomApplicationController.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\RoomApplicationController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wC0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:15:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\RoomController.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\RoomController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\RoomController.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\RoomController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:14:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Implements\\UsersServices.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Implements\\UsersServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Implements\\UsersServices.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Implements\\UsersServices.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:38:38.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\UsersController.cs",
+              "RelativeDocumentMoniker": "HomeHuntAPI\\Controller\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\HomeHuntAPI\\Controller\\UsersController.cs",
+              "RelativeToolTip": "HomeHuntAPI\\Controller\\UsersController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:38:20.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:38:08.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Implements\\AuthServices.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Implements\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Implements\\AuthServices.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Implements\\AuthServices.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:07:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Interfaces\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\Interfaces\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\EXE201\\BE\\HomeHunt\\HomeHuntBE\\BusinessLogicLayer\\Services\\Interfaces\\IAuthServices.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\Interfaces\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:06:58.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
